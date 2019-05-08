@@ -1,0 +1,789 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L kbd:SW_PUSH SW1
+U 1 1 5CD04E7E
+P 2500 2000
+F 0 "SW1" H 2500 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 2500 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2500 2000 50  0001 C CNN
+F 3 "" H 2500 2000 50  0000 C CNN
+	1    2500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW4
+U 1 1 5CD06D94
+P 3400 2000
+F 0 "SW4" H 3400 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 3400 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3400 2000 50  0001 C CNN
+F 3 "" H 3400 2000 50  0000 C CNN
+	1    3400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW7
+U 1 1 5CD074E7
+P 4300 2000
+F 0 "SW7" H 4300 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 2000 50  0001 C CNN
+F 3 "" H 4300 2000 50  0000 C CNN
+	1    4300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW10
+U 1 1 5CD07E3C
+P 5200 2000
+F 0 "SW10" H 5200 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 5200 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5200 2000 50  0001 C CNN
+F 3 "" H 5200 2000 50  0000 C CNN
+	1    5200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW13
+U 1 1 5CD08F8F
+P 6100 2000
+F 0 "SW13" H 6100 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 6100 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 6100 2000 50  0001 C CNN
+F 3 "" H 6100 2000 50  0000 C CNN
+	1    6100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW17
+U 1 1 5CD0A13A
+P 7000 2000
+F 0 "SW17" H 7000 2255 50  0000 C CNN
+F 1 "SW_PUSH" H 7000 2164 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7000 2000 50  0001 C CNN
+F 3 "" H 7000 2000 50  0000 C CNN
+	1    7000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW2
+U 1 1 5CD155B4
+P 2500 2550
+F 0 "SW2" H 2500 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 2500 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2500 2550 50  0001 C CNN
+F 3 "" H 2500 2550 50  0000 C CNN
+	1    2500 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW5
+U 1 1 5CD155BA
+P 3400 2550
+F 0 "SW5" H 3400 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 3400 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3400 2550 50  0001 C CNN
+F 3 "" H 3400 2550 50  0000 C CNN
+	1    3400 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW8
+U 1 1 5CD155C0
+P 4300 2550
+F 0 "SW8" H 4300 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 2550 50  0001 C CNN
+F 3 "" H 4300 2550 50  0000 C CNN
+	1    4300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW11
+U 1 1 5CD155C6
+P 5200 2550
+F 0 "SW11" H 5200 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 5200 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5200 2550 50  0001 C CNN
+F 3 "" H 5200 2550 50  0000 C CNN
+	1    5200 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW14
+U 1 1 5CD155CC
+P 6100 2550
+F 0 "SW14" H 6100 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 6100 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 6100 2550 50  0001 C CNN
+F 3 "" H 6100 2550 50  0000 C CNN
+	1    6100 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW18
+U 1 1 5CD155D2
+P 7000 2550
+F 0 "SW18" H 7000 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 7000 2714 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7000 2550 50  0001 C CNN
+F 3 "" H 7000 2550 50  0000 C CNN
+	1    7000 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW3
+U 1 1 5CD1D06A
+P 2500 3100
+F 0 "SW3" H 2500 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 2500 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 2500 3100 50  0001 C CNN
+F 3 "" H 2500 3100 50  0000 C CNN
+	1    2500 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW6
+U 1 1 5CD1D070
+P 3400 3100
+F 0 "SW6" H 3400 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 3400 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 3400 3100 50  0001 C CNN
+F 3 "" H 3400 3100 50  0000 C CNN
+	1    3400 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW9
+U 1 1 5CD1D076
+P 4300 3100
+F 0 "SW9" H 4300 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 4300 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 4300 3100 50  0001 C CNN
+F 3 "" H 4300 3100 50  0000 C CNN
+	1    4300 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW12
+U 1 1 5CD1D07C
+P 5200 3100
+F 0 "SW12" H 5200 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 5200 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 5200 3100 50  0001 C CNN
+F 3 "" H 5200 3100 50  0000 C CNN
+	1    5200 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW15
+U 1 1 5CD1D082
+P 6100 3100
+F 0 "SW15" H 6100 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 6100 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 6100 3100 50  0001 C CNN
+F 3 "" H 6100 3100 50  0000 C CNN
+	1    6100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW19
+U 1 1 5CD1D088
+P 7000 3100
+F 0 "SW19" H 7000 3355 50  0000 C CNN
+F 1 "SW_PUSH" H 7000 3264 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7000 3100 50  0001 C CNN
+F 3 "" H 7000 3100 50  0000 C CNN
+	1    7000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW16
+U 1 1 5CD203EC
+P 6100 3650
+F 0 "SW16" H 6100 3905 50  0000 C CNN
+F 1 "SW_PUSH" H 6100 3814 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 6100 3650 50  0001 C CNN
+F 3 "" H 6100 3650 50  0000 C CNN
+	1    6100 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW20
+U 1 1 5CD203F2
+P 7000 3650
+F 0 "SW20" H 7000 3905 50  0000 C CNN
+F 1 "SW_PUSH" H 7000 3814 50  0000 C CNN
+F 2 "kbd:CherryMX_Hotswap" H 7000 3650 50  0001 C CNN
+F 3 "" H 7000 3650 50  0000 C CNN
+	1    7000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:ProMicro U1
+U 1 1 5CD204D2
+P 9700 1900
+F 0 "U1" H 9700 2937 60  0000 C CNN
+F 1 "ProMicro" H 9700 2831 60  0000 C CNN
+F 2 "kbd:ProMicro_v2" H 9800 850 60  0001 C CNN
+F 3 "" H 9800 850 60  0000 C CNN
+	1    9700 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9000 1350 8600 1350
+Wire Wire Line
+	8600 1350 8600 1450
+Wire Wire Line
+	9000 1450 8600 1450
+Connection ~ 8600 1450
+Wire Wire Line
+	8600 1450 8600 1550
+Wire Wire Line
+	10400 1250 10900 1250
+$Comp
+L power:VCC #PWR04
+U 1 1 5CD23FB0
+P 10650 1000
+F 0 "#PWR04" H 10650 850 50  0001 C CNN
+F 1 "VCC" H 10667 1173 50  0000 C CNN
+F 2 "" H 10650 1000 50  0001 C CNN
+F 3 "" H 10650 1000 50  0001 C CNN
+	1    10650 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10400 1450 10650 1450
+Wire Wire Line
+	10650 1450 10650 1000
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 5CD25E4D
+P 7500 750
+F 0 "#FLG01" H 7500 825 50  0001 C CNN
+F 1 "PWR_FLAG" H 7500 923 50  0000 C CNN
+F 2 "" H 7500 750 50  0001 C CNN
+F 3 "~" H 7500 750 50  0001 C CNN
+	1    7500 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 5CD269D9
+P 8250 750
+F 0 "#FLG02" H 8250 825 50  0001 C CNN
+F 1 "PWR_FLAG" H 8250 923 50  0000 C CNN
+F 2 "" H 8250 750 50  0001 C CNN
+F 3 "~" H 8250 750 50  0001 C CNN
+	1    8250 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR01
+U 1 1 5CD2741C
+P 7500 750
+F 0 "#PWR01" H 7500 600 50  0001 C CNN
+F 1 "VCC" H 7518 923 50  0000 C CNN
+F 2 "" H 7500 750 50  0001 C CNN
+F 3 "" H 7500 750 50  0001 C CNN
+	1    7500 750 
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5CD28B3A
+P 8600 1550
+F 0 "#PWR03" H 8600 1300 50  0001 C CNN
+F 1 "GND" H 8605 1377 50  0000 C CNN
+F 2 "" H 8600 1550 50  0001 C CNN
+F 3 "" H 8600 1550 50  0001 C CNN
+	1    8600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 5CD293E7
+P 10900 1250
+F 0 "#PWR05" H 10900 1000 50  0001 C CNN
+F 1 "GND" H 10905 1077 50  0000 C CNN
+F 2 "" H 10900 1250 50  0001 C CNN
+F 3 "" H 10900 1250 50  0001 C CNN
+	1    10900 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5CD29C71
+P 8250 750
+F 0 "#PWR02" H 8250 500 50  0001 C CNN
+F 1 "GND" H 8255 577 50  0000 C CNN
+F 2 "" H 8250 750 50  0001 C CNN
+F 3 "" H 8250 750 50  0001 C CNN
+	1    8250 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D1
+U 1 1 5CD2A7EE
+P 2800 2150
+F 0 "D1" V 2846 2071 50  0000 R CNN
+F 1 "1N4148" V 2755 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 2800 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2800 2150 50  0001 C CNN
+	1    2800 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D4
+U 1 1 5CD2C2D7
+P 3700 2150
+F 0 "D4" V 3746 2071 50  0000 R CNN
+F 1 "1N4148" V 3655 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 3700 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 2150 50  0001 C CNN
+	1    3700 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D7
+U 1 1 5CD2C99A
+P 4600 2150
+F 0 "D7" V 4646 2071 50  0000 R CNN
+F 1 "1N4148" V 4555 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 4600 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 2150 50  0001 C CNN
+	1    4600 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D10
+U 1 1 5CD2D1AE
+P 5500 2150
+F 0 "D10" V 5546 2071 50  0000 R CNN
+F 1 "1N4148" V 5455 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 5500 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 2150 50  0001 C CNN
+	1    5500 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D13
+U 1 1 5CD2DA70
+P 6400 2150
+F 0 "D13" V 6446 2071 50  0000 R CNN
+F 1 "1N4148" V 6355 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 6400 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6400 2150 50  0001 C CNN
+	1    6400 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D17
+U 1 1 5CD2E49E
+P 7300 2150
+F 0 "D17" V 7346 2071 50  0000 R CNN
+F 1 "1N4148" V 7255 2071 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 7300 1975 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 2150 50  0001 C CNN
+	1    7300 2150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D2
+U 1 1 5CD36EF0
+P 2800 2700
+F 0 "D2" V 2846 2621 50  0000 R CNN
+F 1 "1N4148" V 2755 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 2800 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2800 2700 50  0001 C CNN
+	1    2800 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D5
+U 1 1 5CD36EF6
+P 3700 2700
+F 0 "D5" V 3746 2621 50  0000 R CNN
+F 1 "1N4148" V 3655 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 3700 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 2700 50  0001 C CNN
+	1    3700 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D8
+U 1 1 5CD36EFC
+P 4600 2700
+F 0 "D8" V 4646 2621 50  0000 R CNN
+F 1 "1N4148" V 4555 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 4600 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 2700 50  0001 C CNN
+	1    4600 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D11
+U 1 1 5CD36F02
+P 5500 2700
+F 0 "D11" V 5546 2621 50  0000 R CNN
+F 1 "1N4148" V 5455 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 5500 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 2700 50  0001 C CNN
+	1    5500 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D14
+U 1 1 5CD36F08
+P 6400 2700
+F 0 "D14" V 6446 2621 50  0000 R CNN
+F 1 "1N4148" V 6355 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 6400 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6400 2700 50  0001 C CNN
+	1    6400 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D18
+U 1 1 5CD36F0E
+P 7300 2700
+F 0 "D18" V 7346 2621 50  0000 R CNN
+F 1 "1N4148" V 7255 2621 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 7300 2525 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 2700 50  0001 C CNN
+	1    7300 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D3
+U 1 1 5CD3BFC9
+P 2800 3250
+F 0 "D3" V 2846 3171 50  0000 R CNN
+F 1 "1N4148" V 2755 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 2800 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2800 3250 50  0001 C CNN
+	1    2800 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D6
+U 1 1 5CD3BFCF
+P 3700 3250
+F 0 "D6" V 3746 3171 50  0000 R CNN
+F 1 "1N4148" V 3655 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 3700 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 3250 50  0001 C CNN
+	1    3700 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D9
+U 1 1 5CD3BFD5
+P 4600 3250
+F 0 "D9" V 4646 3171 50  0000 R CNN
+F 1 "1N4148" V 4555 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 4600 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4600 3250 50  0001 C CNN
+	1    4600 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D12
+U 1 1 5CD3BFDB
+P 5500 3250
+F 0 "D12" V 5546 3171 50  0000 R CNN
+F 1 "1N4148" V 5455 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 5500 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 3250 50  0001 C CNN
+	1    5500 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D15
+U 1 1 5CD3BFE1
+P 6400 3250
+F 0 "D15" V 6446 3171 50  0000 R CNN
+F 1 "1N4148" V 6355 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 6400 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6400 3250 50  0001 C CNN
+	1    6400 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D19
+U 1 1 5CD3BFE7
+P 7300 3250
+F 0 "D19" V 7346 3171 50  0000 R CNN
+F 1 "1N4148" V 7255 3171 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 7300 3075 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 3250 50  0001 C CNN
+	1    7300 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D16
+U 1 1 5CD3C192
+P 6400 3800
+F 0 "D16" V 6446 3721 50  0000 R CNN
+F 1 "1N4148" V 6355 3721 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 6400 3625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6400 3800 50  0001 C CNN
+	1    6400 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D20
+U 1 1 5CD3C9DE
+P 7300 3800
+F 0 "D20" V 7346 3721 50  0000 R CNN
+F 1 "1N4148" V 7255 3721 50  0000 R CNN
+F 2 "kbd:D3_TH_SMD" H 7300 3625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 3800 50  0001 C CNN
+	1    7300 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW21
+U 1 1 5CD3DC90
+P 9700 3000
+F 0 "SW21" H 9700 3255 50  0000 C CNN
+F 1 "SW_PUSH" H 9700 3164 50  0000 C CNN
+F 2 "kbd:ResetSW" H 9700 3000 50  0001 C CNN
+F 3 "" H 9700 3000 50  0000 C CNN
+	1    9700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5CD3EAD6
+P 9400 3000
+F 0 "#PWR06" H 9400 2750 50  0001 C CNN
+F 1 "GND" H 9405 2827 50  0000 C CNN
+F 2 "" H 9400 3000 50  0001 C CNN
+F 3 "" H 9400 3000 50  0001 C CNN
+	1    9400 3000
+	1    0    0    -1  
+$EndComp
+Text GLabel 10000 3000 2    50   Input ~ 0
+reset
+Text GLabel 10400 1350 2    50   Input ~ 0
+reset
+Wire Wire Line
+	7300 2300 6400 2300
+Connection ~ 2800 2300
+Wire Wire Line
+	2800 2300 1500 2300
+Connection ~ 3700 2300
+Wire Wire Line
+	3700 2300 2800 2300
+Connection ~ 4600 2300
+Wire Wire Line
+	4600 2300 3700 2300
+Connection ~ 5500 2300
+Wire Wire Line
+	5500 2300 4600 2300
+Connection ~ 6400 2300
+Wire Wire Line
+	6400 2300 5500 2300
+Wire Wire Line
+	7300 2850 6400 2850
+Connection ~ 2800 2850
+Wire Wire Line
+	2800 2850 1500 2850
+Connection ~ 3700 2850
+Wire Wire Line
+	3700 2850 2800 2850
+Connection ~ 4600 2850
+Wire Wire Line
+	4600 2850 3700 2850
+Connection ~ 5500 2850
+Wire Wire Line
+	5500 2850 4600 2850
+Connection ~ 6400 2850
+Wire Wire Line
+	6400 2850 5500 2850
+Wire Wire Line
+	7300 3400 6400 3400
+Connection ~ 2800 3400
+Wire Wire Line
+	2800 3400 1500 3400
+Connection ~ 3700 3400
+Wire Wire Line
+	3700 3400 2800 3400
+Connection ~ 4600 3400
+Wire Wire Line
+	4600 3400 3700 3400
+Connection ~ 5500 3400
+Wire Wire Line
+	5500 3400 4600 3400
+Connection ~ 6400 3400
+Wire Wire Line
+	6400 3400 5500 3400
+Wire Wire Line
+	7300 3950 6400 3950
+Connection ~ 6400 3950
+Wire Wire Line
+	6400 3950 1500 3950
+Text GLabel 1500 2300 0    50   Input ~ 0
+row0
+Text GLabel 1500 2850 0    50   Input ~ 0
+row1
+Text GLabel 1500 3400 0    50   Input ~ 0
+row2
+Text GLabel 1500 3950 0    50   Input ~ 0
+row3
+Wire Wire Line
+	2200 3100 2200 2550
+Connection ~ 2200 2000
+Wire Wire Line
+	2200 2000 2200 1500
+Connection ~ 2200 2550
+Wire Wire Line
+	2200 2550 2200 2000
+Wire Wire Line
+	3100 1500 3100 2000
+Connection ~ 3100 2000
+Wire Wire Line
+	3100 2000 3100 2550
+Connection ~ 3100 2550
+Wire Wire Line
+	3100 2550 3100 3100
+Wire Wire Line
+	4000 1500 4000 2000
+Connection ~ 4000 2000
+Wire Wire Line
+	4000 2000 4000 2550
+Connection ~ 4000 2550
+Wire Wire Line
+	4000 2550 4000 3100
+Wire Wire Line
+	4900 1500 4900 2000
+Connection ~ 4900 2000
+Wire Wire Line
+	4900 2000 4900 2550
+Connection ~ 4900 2550
+Wire Wire Line
+	4900 2550 4900 3100
+Wire Wire Line
+	5800 1500 5800 2000
+Connection ~ 5800 2000
+Wire Wire Line
+	5800 2000 5800 2550
+Connection ~ 5800 2550
+Wire Wire Line
+	5800 2550 5800 3100
+Connection ~ 5800 3100
+Wire Wire Line
+	5800 3100 5800 3650
+Wire Wire Line
+	6700 1500 6700 2000
+Connection ~ 6700 2000
+Wire Wire Line
+	6700 2000 6700 2550
+Connection ~ 6700 2550
+Wire Wire Line
+	6700 2550 6700 3100
+Connection ~ 6700 3100
+Wire Wire Line
+	6700 3100 6700 3650
+Text GLabel 2200 1500 0    50   Input ~ 0
+col0
+Text GLabel 3100 1500 0    50   Input ~ 0
+col1
+Text GLabel 4000 1500 0    50   Input ~ 0
+col2
+Text GLabel 4900 1500 0    50   Input ~ 0
+col3
+Text GLabel 5800 1500 0    50   Input ~ 0
+col4
+Text GLabel 6700 1500 0    50   Input ~ 0
+col5
+$Comp
+L kbd:MJ-4PP-9 J1
+U 1 1 5CD4F773
+P 9300 3600
+F 0 "J1" H 9331 3876 50  0000 C CNN
+F 1 "MJ-4PP-9" H 9331 3785 50  0000 C CNN
+F 2 "kbd:MJ-4PP-9" H 9575 3775 50  0001 C CNN
+F 3 "~" H 9575 3775 50  0001 C CNN
+	1    9300 3600
+	1    0    0    -1  
+$EndComp
+NoConn ~ 9500 3525
+$Comp
+L power:GND #PWR07
+U 1 1 5CD51284
+P 10000 3625
+F 0 "#PWR07" H 10000 3375 50  0001 C CNN
+F 1 "GND" H 10005 3452 50  0000 C CNN
+F 2 "" H 10000 3625 50  0001 C CNN
+F 3 "" H 10000 3625 50  0001 C CNN
+	1    10000 3625
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR08
+U 1 1 5CD52029
+P 10150 3575
+F 0 "#PWR08" H 10150 3425 50  0001 C CNN
+F 1 "VCC" H 10167 3748 50  0000 C CNN
+F 2 "" H 10150 3575 50  0001 C CNN
+F 3 "" H 10150 3575 50  0001 C CNN
+	1    10150 3575
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9500 3575 10150 3575
+Wire Wire Line
+	9500 3625 10000 3625
+Text GLabel 9750 3900 2    50   Input ~ 0
+data
+Wire Wire Line
+	9500 3675 9500 3900
+Wire Wire Line
+	9500 3900 9750 3900
+Text GLabel 9000 1250 0    50   Input ~ 0
+data
+NoConn ~ 9000 1150
+NoConn ~ 10400 1150
+Text GLabel 9000 2250 0    50   Input ~ 0
+col5
+Text GLabel 9000 2150 0    50   Input ~ 0
+col4
+Text GLabel 9000 2050 0    50   Input ~ 0
+col3
+Text GLabel 10400 1550 2    50   Input ~ 0
+col0
+Text GLabel 10400 1650 2    50   Input ~ 0
+col1
+Text GLabel 10400 1750 2    50   Input ~ 0
+col2
+Text GLabel 10400 1950 2    50   Input ~ 0
+row0
+Text GLabel 10400 2050 2    50   Input ~ 0
+row1
+Text GLabel 10400 2150 2    50   Input ~ 0
+row2
+Text GLabel 10400 2250 2    50   Input ~ 0
+row3
+NoConn ~ 10400 1850
+NoConn ~ 9000 1550
+NoConn ~ 9000 1650
+NoConn ~ 9000 1750
+NoConn ~ 9000 1850
+NoConn ~ 9000 1950
+$EndSCHEMATC
